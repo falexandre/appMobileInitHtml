@@ -2,7 +2,6 @@ html, body {
 	height: 100%;
 	width: 100%;
 	font-size: 12px;
-	text-align: center;
 	color: #000;
 }
 
@@ -17,3 +16,6 @@ footer{
 	text-align: center;
 }
 
+.container-fluid{
+	margin-top: 20px;
+}
