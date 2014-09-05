@@ -3,11 +3,12 @@ html, body {
 	width: 100%;
 	font-size: 12px;
 	text-align: center;
+	color: #000;
 }
 
 header,
 footer{
-	width: 95%;
+	width: 100%;
 	min-height: 10px;
 	background-color: #000;
 	color: #FFF;
